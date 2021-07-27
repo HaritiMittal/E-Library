@@ -1,0 +1,49 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+#author {
+    border-radius: 200px;
+}
+
+#author2, #author3 {
+    border-radius: 150px;
+    height: 300px;
+    width: 300px;
+}
+
+p {
+    color: white;
+}
+
+.p_modal {
+    margin-top: 10px;
+    color: black;
+}
+
+.modal-body {
+    text-align: center
+}
+
+.book {
+    cursor: pointer;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    box-shadow: 7px 10px 10px 2px grey;
+    width: 600px;
+    height: 400px;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.img_modal_body {
+    width: 600px;
+}
